@@ -27,16 +27,17 @@ Si la grille est pleine et qu'il n'y pas d'alignement possible, la partie est nu
 
 <h1>Notice d'utilisation</h1>
 <p>
-* Le puissnace 4 se joue à 2.<br/>
+* Le puissance 4 se joue à 2.<br/>
 * Il est demandé tour à tour aux 2 joueurs de saisir leurs noms.<br/>
 * Un tirage au sort est effectué pour définir lequel des deux joueurs commence.<br/>
 * Il est demandé tour à tour aux joueurs de saisir un chiffre entre 1 et 7 pour choisir dans quelle colonnes il veut placer son jeton.<br/>
 * Si le joueur saisi autre chose qu'un entier entre 1 et 7, il lui ai demandé de rejouer.<br/>
-* Le premier joueur qui aligne 4 jetons soit horizontalement, soit verticalement, soit en diagonale à gagné.<br/>
+* Le premier joueur qui aligne 4 jetons soit horizontalement, soit verticalement, soit en diagonale a gagné.<br/>
 * Si aucun alignement n'est réalisé et que le plateau est plein, la partie est terminée ; c'est un match null.<br/>
-* Il est proposé aux joueurx de faire une autre partie, ou pas.
+* Il est proposé aux joueurs de faire une autre partie, ou pas.
 </p>
 
 <h1>Remerciements</h1>
 
-<p>Un grand merci à Virgile qui m'a accompagné dans la réalisation de ce code que, grâce à lui, j'ai compris !</p>
+<p>Un grand merci à Virgile qui m'a accompagné dans la réalisation de ce code que, grâce à lui, j'ai compris !<br/>
+Et merci à M. Le Délégué pour la correction des fautes d'orthographe...</p>
